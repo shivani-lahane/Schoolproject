@@ -28,7 +28,7 @@ const About = () => {
         <div className=' w-[1200px] h-[300]'>
 
           <h2 className="text-3xl font-bold text-primary ">
-            VISSION</h2>
+            VISION</h2>
           <p> To prepare dynamic and caring citizens of tomorrow to meet the challenges a global societywhile retaining their traditional values
             develop our school into vibrant  an exemplary educational institution where students are nurtured encouraged and motivated to achieve their ultimate potential by exploring limitless possibilities with utmost confidence dedication and
 
